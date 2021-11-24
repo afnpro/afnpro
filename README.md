@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afnpro
+- 👋 Hi, I’m Alexsandro Neves
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning graphql
 - 💞️ I’m looking to collaborate on innovations that can improve peoples live
