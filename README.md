@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexsandro Neves
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning graphql
+- 🌱 I’m currently learning a lot of things
 - 💞️ I’m looking to collaborate on innovations that can improve peoples live
 - 📫 How to reach me afnpro@gmail.com
 
